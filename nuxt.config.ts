@@ -108,4 +108,6 @@ export default defineNuxtConfig({
       description: description,
     },
   },
+
+  ssr: false,
 });
